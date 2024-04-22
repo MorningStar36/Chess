@@ -20,7 +20,7 @@ One such Project while trying to implement both, I am trying to remake the game 
 
 
 ## Status
-
+ ![chess_ss1](https://github.com/MorningStar36/Chess/assets/145042849/fa259ce2-4c66-436b-a3ec-5c8a0ed991b9)
   Ongoing, bugs left to fix.
   Features like castling,etc are yet to be implemented
 ## Future Scope
