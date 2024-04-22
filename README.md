@@ -29,3 +29,4 @@ To implement it with Stockfish and take it forward to Human vs  AI level.
 
 ## Screenshots
  ![chess_ss1](https://github.com/MorningStar36/Chess/assets/145042849/fa259ce2-4c66-436b-a3ec-5c8a0ed991b9)
+ ![chess_ss2](https://github.com/MorningStar36/Chess/assets/145042849/f80dc35e-613c-4aa3-9fb9-265430fb97de)
